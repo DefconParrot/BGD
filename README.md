@@ -9,6 +9,7 @@ Welcome to the **Badges and Gadgets of Defcon (BGD)** repository! This repositor
 - [Introduction](#introduction)
 - [How to Use](#how-to-use)
 - [Badge Collection](#badge-collection)
+- [Badge Challenge Walkthrough](#badge-challenge-walkthrough)
 - [Other Cool Gadget](#other-cool-gadgets)
 - [Contributing](#contributing)
 - [License](#license)
@@ -30,29 +31,37 @@ To explore the badges and gadgets showcased in this repository:
 
 ## Badge Collection
 
-| BadgeName | Creator | BadgeDescription | SourceCode/Docs | Language/Tech| link to Demo/Image   | Conference Year |
+| BadgeName | Creator | BadgeDescription | SourceCode/Docs | Lang/Tech| Demo link/Image   | Conference Year |
 |------------|---------|-------------|-------------|--------------|---------------------|----------------|
-| The Future Will Prevail badge  | [alt_bier](https://twitter.com/alt_bier)   | Badge based on DEF CON 31 theme | - [GitHub↗](https://github.com/gowenrw/future_badge) </br> - [Docs↗](https://github.com/gowenrw/future_badge/blob/main/code/README.md) | - C++ </br> - shell </br> - C    | ![badge](https://futurebadge.altbier.us/images/future_badge_hero.jpg) </br> [Snap on x ↗](https://pbs.twimg.com/media/F3pcNSYXIAA0ryE?format=jpg&name=small)  | DC2023          |
-| | | | | | | 
+| The Future Will Prevail badge  | [alt_bier](https://twitter.com/alt_bier)   | Badge based on DEF CON 31 theme | - [GitHub↗](https://github.com/gowenrw/future_badge) </br> - [Docs↗](https://github.com/gowenrw/future_badge/blob/main/code/README.md) | - C++ </br> - shell </br> - C    | ![badge](https://futurebadge.altbier.us/images/future_badge_hero.jpg) </br> [Snap on x ↗](https://pbs.twimg.com/media/F3pcNSYXIAA0ryE?format=jpg&name=small)  | DC31 - 2023 |
+|Electronic Tor badge |[The Tor Project](https://www.torproject.org/about/history/)|This electronic badge acts as a mini lie detector. It has two primary sensors, a GSR sensor and a heart rate sensor. |[GitHub](https://github.com/seeess/Defcon-Tor-29-Badge)|- C++ |![torBadge](https://camo.githubusercontent.com/5c4caf3a08ab2dd79d71716f681182e7e219065f19e897151a394cbb21787d4e/68747470733a2f2f692e696d6775722e636f6d2f7a5168564448472e6a7067)| DC29 - 2019 |
 
 [Back to Top](#top)
+
+
+## Badge Challenge Walkthrough
+
+| BadgeName        | Snap        |BadgeCreators  |ConferenceYear   |  LinkToWriteup    | WriteupBy            | 
+|------------------|-------------|---------------|--------------------------|-------------------|-------------|
+|Tor Project Badge |[image↗](https://forum.torproject.org/t/tor-project-tor-def-con-29-badges-available-limited-time/1032)|[The Tor Project](https://www.torproject.org/about/history/)| DEF CON 29 | [DC 29 Tor Badge Challenge Walkthrough↗](https://gigsatdc.com/dc29/torbadge_walkthrough.php)|[Twitter: @Gigs↗](https://twitter.com/gigstaggart) |
+|                  |              |              |                  |                  |                       |
 
 
 ## Other Cool Gadgets
 
 - Sources to some of the cool projects as seen at DEF CON.
 
-| GadgetName              | Creator | GadgetShortDescription | SourceCode/Docs | Language/Tech| Demo   | DEFCON Year |
+| GadgetName              | Creator(s) | GadgetDescription | SourceCode/Docs | Lang/Tech| Demo   | DEFCON Year |
 |-------------------------|---------|-------------|-------------|--------------|---------------------|----------------|
-| e.g The S.O.D.A Machine | | | | | |
+|The Shells On Demand Appliance (S.O.D.A) Machine | [jetbalsa](#) |A vending machine to provide users(Defcon attendees at the time), a means of coming up anonymously by use of VMs that they can use over the DC network/tor at a cheap price. |[GitHub↗](https://github.com/jetbalsa/soda-machine) | - PHP </br> - Shell </br> - C++ </br> | [YouTube↗](https://youtu.be/pmW6lMCEaJc?si=qpXMbfy90aroM6z_) </br> [Image snap↗](https://twitter.com/DefconParrot/status/1559822944154566657) | DC31 & DC32 |
 
 ## Contributing
 
 If you have a badge or gadget from a Defcon conference that you'd like to add to this repository, feel free to contribute:
 
 1. Fork this repository.
-2. Add your badge's information to the [Badge Collection](#badge-collection) table or gadget's information
-   to the [Other Cool Gadgets](#other-cool-gadgets) table section.
+2. Add your badge's info to the [Badge Collection](#badge-collection) table or gadget's information
+   to the [Other Cool Gadgets](#other-cool-gadgets) table section and so on.
 3. Submit a pull request.
 4. Your contribution will be reviewed and merged if appropriate.
 
