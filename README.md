@@ -11,6 +11,7 @@ Welcome to the **Badges and Gadgets of Defcon (BGD)** repository! This repositor
 - [Badge Collection](#badge-collection)
 - [Badge Challenge Walkthrough](#badge-challenge-walkthrough)
 - [Other Cool Gadget](#other-cool-gadgets)
+- [Badge Discord Servers](#badge-discord-servers)
 - [Contributing](#contributing)
 - [License](#license)
 
