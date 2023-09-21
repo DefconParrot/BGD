@@ -61,6 +61,14 @@ To explore the badges and gadgets showcased in this repository:
 |-------------------------|---------|-------------|-------------|--------------|---------------------|----------------|
 |The Shells On Demand Appliance (S.O.D.A) Machine | [jetbalsa](#) |A vending machine to provide users(Defcon attendees at the time), a means of coming up anonymously by use of VMs that they can use over the DC network/tor at a cheap price. |[GitHub↗](https://github.com/jetbalsa/soda-machine) | - PHP </br> - Shell </br> - C++ </br> | [YouTube↗](https://youtu.be/pmW6lMCEaJc?si=qpXMbfy90aroM6z_) </br> [Image snap↗](https://twitter.com/DefconParrot/status/1559822944154566657) | DC31 & DC32 |
 
+## Discord
+
+- Badge Discord Servers
+
+| ServerName              | Creator(s) | ServerDescription | Discord | 
+|-------------------------|---------|-------------|-------------|--------------|---------------------|----------------|
+| BadgeMakers | [mauvehed](https://rant.mvh.dev/), reanimationxp | Badge Life, Electronics, Buy / Sell / Trade / Learn | http://discord.badge.life
+
 ## Contributing
 
 If you have a badge or gadget from a Defcon conference that you'd like to add to this repository, feel free to contribute:
