@@ -66,8 +66,8 @@ To explore the badges and gadgets showcased in this repository:
 - Badge Discord Servers
 
 | ServerName              | Creator(s) | ServerDescription | Discord | 
-|-------------------------|---------|-------------|-------------|--------------|---------------------|----------------|
-| BadgeMakers | [mauvehed](https://rant.mvh.dev/), reanimationxp | Badge Life, Electronics, Buy / Sell / Trade / Learn | http://discord.badge.life
+|-------------------------|---------|-------------|-------------|
+| BadgeMakers | [mauvehed](https://rant.mvh.dev/), reanimationxp | Badge Life, Electronics, Buy / Sell / Trade / Learn | http://discord.badge.life |
 
 ## Contributing
 
