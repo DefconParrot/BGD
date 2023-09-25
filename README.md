@@ -41,10 +41,6 @@ To explore the badges and gadgets showcased in this repository:
 | DCZia Electric Sampler | [DCZia](https://dczia.net/) | The DCZia Electric Sampler - A eurorack format drum machine, sampler, and step sequencer powered by the Pi2040. | - [Documentation & source code↗](https://github.com/dczia/Defcon31-Badge)  | - RPI 2040 </br> - Midi In / Out (TRRS) </br> - 3.5mm Sync In / Out | ![badge](https://dczia.net/images/badges/dczia2023.jpg) </br> - [Tindie↗](https://www.tindie.com/products/hamster/dczia-electric-sampler/) | DC31 - 2023 |
 | DEFCON 18 Badge | [Joe Grand](https://twitter.com/joegrand) | Badge features active electronics mounted on an artistically designed, aluminum substrate printed circuit board. | - [Documentation & source code↗](http://www.grandideastudio.com/defcon-18-badge/) </br> - [Article↗](http://www.grandideastudio.com/wp-content/uploads/dc18_bdg_charm.pdf) | N/A | ![DC18-Badge](http://www.grandideastudio.com/wp-content/uploads/dc18_bdg_img1.jpg) </br> - [YouTube↗](https://www.youtube.com/watch?v=tmfT13DcJOk) </br> - [More YT Samples From Attendees↗](https://www.youtube.com/results?search_query=dc18+badge+hack) | DC18 |
 
-
-
-|          |           |             |                    |           |              |                    |
-
 [Back to Top](#top)
 
 
