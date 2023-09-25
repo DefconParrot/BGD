@@ -36,13 +36,9 @@ To explore the badges and gadgets showcased in this repository:
 
 | BadgeName | Creator | BadgeDescription | SourceCode/Docs | Lang/Tech| Demo link/Image   | Conference Year |
 |------------|---------|-------------|-------------|--------------|---------------------|----------------|
-
 | The Future Will Prevail badge  | [alt_bier](https://twitter.com/alt_bier)   | Badge based on DEF CON 31 theme | - [GitHub↗](https://github.com/gowenrw/future_badge) </br> - [Docs↗](https://github.com/gowenrw/future_badge/blob/main/code/README.md) | - C++ </br> - shell </br> - C    | ![badge](https://futurebadge.altbier.us/images/future_badge_hero.jpg) </br> [Snap on x ↗](https://pbs.twimg.com/media/F3pcNSYXIAA0ryE?format=jpg&name=small)  | DC31 - 2023 |
-
 |Electronic Tor badge |[The Tor Project](https://www.torproject.org/about/history/)|This electronic badge acts as a mini lie detector. It has two primary sensors, a GSR sensor and a heart rate sensor. |[GitHub](https://github.com/seeess/Defcon-Tor-29-Badge)|- C++ |![torBadge](https://camo.githubusercontent.com/5c4caf3a08ab2dd79d71716f681182e7e219065f19e897151a394cbb21787d4e/68747470733a2f2f692e696d6775722e636f6d2f7a5168564448472e6a7067)| DC29 |
-
-| DEFCON 31 Badge | [DCZia](https://dczia.net/) | The DCZia Electric Sampler - A eurorack format drum machine, sampler, and step sequencer powered by the Pi2040. | - [Documentation & source code↗](https://github.com/dczia/Defcon31-Badge)  | - RPI 2040 </br> - Midi In / Out (TRRS) </br> - 3.5mm Sync In / Out | ![badge](https://dczia.net/images/badges/dczia2023.jpg) </br> - [Tindie↗](https://www.tindie.com/products/hamster/dczia-electric-sampler/) | DC31 - 2023 |
-
+| DCZia Electric Sampler | [DCZia](https://dczia.net/) | The DCZia Electric Sampler - A eurorack format drum machine, sampler, and step sequencer powered by the Pi2040. | - [Documentation & source code↗](https://github.com/dczia/Defcon31-Badge)  | - RPI 2040 </br> - Midi In / Out (TRRS) </br> - 3.5mm Sync In / Out | ![badge](https://dczia.net/images/badges/dczia2023.jpg) </br> - [Tindie↗](https://www.tindie.com/products/hamster/dczia-electric-sampler/) | DC31 - 2023 |
 | DEFCON 18 Badge | [Joe Grand](https://twitter.com/joegrand) | Badge features active electronics mounted on an artistically designed, aluminum substrate printed circuit board. | - [Documentation & source code↗](http://www.grandideastudio.com/defcon-18-badge/) </br> - [Article↗](http://www.grandideastudio.com/wp-content/uploads/dc18_bdg_charm.pdf) | N/A | ![DC18-Badge](http://www.grandideastudio.com/wp-content/uploads/dc18_bdg_img1.jpg) </br> - [YouTube↗](https://www.youtube.com/watch?v=tmfT13DcJOk) </br> - [More YT Samples From Attendees↗](https://www.youtube.com/results?search_query=dc18+badge+hack) | DC18 |
 
 
